@@ -17,7 +17,6 @@ Buildrequires:	perl-devel
 %endif
 BuildRequires:	lexed
 Buildarch:	    noarch
-BuildRoot:	    %{_tmppath}/%{name}-%{version}
 
 %description
 This module is a perl wrapper around Lexed, a lexicalizer developed at INRIA.
