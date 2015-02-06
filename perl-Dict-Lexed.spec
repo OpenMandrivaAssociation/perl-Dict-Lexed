@@ -2,7 +2,7 @@
 
 Name:		perl-%{module}
 Version:	0.2.2
-Release:	8
+Release:	9
 Summary:	Lexed wrapper
 License:	GPL or Artistic
 Group:		Development/Perl
